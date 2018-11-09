@@ -1,0 +1,65 @@
+#typographyUpload{
+    margin-top:5%;
+    display: block;
+    position: relative;
+    text-align: center;
+}
+
+#ImageUploadText{
+    color:#5423B7;
+}
+
+#uploadSection{
+    margin-top:3%;
+    display: block;
+    position: relative;
+    margin-left:45%;
+    /* margin-right: 45%; */
+}
+
+#uploadBtn{
+    width:15%;
+}
+
+.media{
+    object-fit: cover
+}
+
+.card{
+    max-width: 345;
+    margin-top: 2%; 
+    margin-left:1%;
+}
+
+
+.MuiCardActionArea-root-144:hover
+{
+    background-color: transparent !important;
+}
+
+#typogragphyOutput{
+    margin-top:2%;
+    display: block;
+    position: relative;
+    text-align: center;
+}
+
+#ImageOutputText{
+    color:#5423B7;
+}
+
+.loader{
+    padding-top:7%;
+    width: 3%;
+    margin: 0 auto;
+}
+
+#typographyNoOutput{
+    /* margin-top:2%;
+    display: block;
+    position: relative;
+    text-align: center; */
+    padding-top:7%;
+    width: 3%;
+    margin: 0 auto;
+}
